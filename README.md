@@ -7,12 +7,13 @@ This repository contains real-world data analysis projects and interview prepara
 - Python
 - Pandas
 - NumPy
-- SQL
 - Data Visualization
 
 ## 📂 Projects
 
-1. Sales Data Analysis (Coming Soon)
+### 1. Sales Performance & Profitability Analysis
+Retail sales dataset analysis focusing on revenue trends, discount impact, and profitability insights.
+
 2. Incident Management Dashboard (Coming Soon)
 3. SQL Business Case Study (Coming Soon)
 
@@ -21,10 +22,9 @@ This repository contains real-world data analysis projects and interview prepara
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- SQL Query Optimization
 - Business Insights Generation
 
 ---
 
 👨‍💻 Author: Mohammad Arsalan  
-📍 Location: India  
+📍 Location: India  (Lucknow)
